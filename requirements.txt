@@ -1,0 +1,4 @@
+OpenCV2-Python
+numpy
+tensorflow
+glob
